@@ -1,4 +1,4 @@
 const queDeboHacer = (tarea) => {
-  const tareas = {};
+  const tareas = { comprar: "comprar leche y pan" };
   console.log(tareas[tarea]);
 };
